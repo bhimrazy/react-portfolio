@@ -1,139 +1,134 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Bhimraj Yadav",
+    "occupation": "Laravel Developer && Developer at PrabhuSoft ",
+    "description": "Full Stack Laravel Developer",
+    "image": "bhimrazy.png",
+    "bio": "My name is Bhimraj Yadav, I'm a Full Stack Laravel Developer. Currently I'm working at PrabhuSoft Pvt. Ltd. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "bhimrajyadav977@gmail.com",
+    "phone": "+977 9816764644",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Koteshwor 30",
+      "city": "Kathmandu",
+      "state": "Nepal",
+      "zip": "44600"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
-    "social": [
-      {
+    "website": "https://www.bhimraj.com.np",
+    "resumedownload": "https://www.bhimraj.com.np",
+    "social": [{
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/vimraz.yadav",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/bhimrazy",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/bhimrazyadav",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/bhimrazy",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
-      }
-    ],
-    "work": [
-      {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
-      }
-    ],
-    "skills": [
-      {
+    "education": [{
+      "school": "Kathford Int'l College of Engineering and Management | TU",
+      "degree": "Bachelor in Computer Engineering",
+      "graduated": "Nov 2022",
+      "description": ""
+    }],
+    "work": [{
+      "company": "PrabhuSoft Pvt.Ltd.",
+      "title": "Team Member && Laravel Specialist",
+      "years": "May 2020 - Present",
+      "description": ""
+    }],
+    "skills": [{
         "name": "ReactJs",
-        "level": "100%"
+        "level": "60%"
       },
       {
         "name": "CSS",
         "level": "95%"
       },
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
         "name": "HTML5",
         "level": "80%"
       },
       {
+        "name": "Node | Express",
+        "level": "70%"
+      },
+      {
+        "name": "Laravel",
+        "level": "80%"
+      },
+      {
+        "name": "Flutter | Dart",
+        "level": "50%"
+      },
+      {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "60%"
+      },
+      {
+        "name": "TF AND PYTORCH",
+        "level": "40%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Photoshop && Adobe XD",
+        "level": "55%"
       }
     ]
   },
   "portfolio": {
-    "projects": [
-      {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+    "projects": [{
+        "title": "Fastbuy - Home and Kitchen Appliances | Mega Shop",
+        "category": "Ecommerce website built with Laravel",
+        "image": "fastbuy.png",
+        "url": "https://bhimraj.com.np/fastbuy/public/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "IOEentrance | Practice and Aim Higher",
+        "category": "Online Based Entrance System built with Laravel",
+        "image": "ioeentrance.png",
+        "url": "https://ioeentrance.bhimraj.com.np/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Aadharbhoot Pasal",
+        "category": "Ecommerce website built with ExperessJs",
+        "image": "adb.png",
+        "url": "https://bhimrazy-adb-project.glitch.me/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "IOEentrance | Practice and Aim Higher",
+        "category": "Online Based Entrance System built with Laravel",
+        "image": "ioeentrance.png",
+        "url": "https://ioeentrance.bhimraj.com.np/"
       }
     ]
   },
   "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
-      }
-    ]
+    "testimonials": [{
+      "text": "He is one of the brilliant Developer and Learner.",
+      "user": "PrabhuSoft Pvt.Ltd."
+    }]
   }
 }
